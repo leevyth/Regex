@@ -2,6 +2,7 @@
 /*
 * Checks for invalid characters
 * in email addresses
+* source: http://www.oracle.com/technetwork/articles/java/regex-1564923.html
 */
 public class EmailValidation {
    public static void main(String[] args) 
